@@ -1,5 +1,6 @@
 Extensions for FMOD plugin
-Method chain workflow + C# method naming (PascalCase)
+- Method chain workflow
+- C# method naming (PascalCase)
 
 ```csharp
 [SerializeField] EventReference eventRef;
